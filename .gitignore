@@ -1,0 +1,13 @@
+/.data
+/deploy
+/RESTWebService/deploy
+/RESTWebService/classes
+/RESTWebService/servers
+/RESTWebService/public_html/WEB-INF/temp
+/RESTWebService/public_html/META-INF/.WL_internal
+
+/RESTModel/deploy
+/RESTModel/classes
+/RESTModel/servers
+
+/AngularProject/node_modules
